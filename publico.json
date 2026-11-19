@@ -1,0 +1,24 @@
+{
+  "carreras": [
+    { "nombre": "Licenciatura en Ciencias de la Comunicación", "tipo": "Grado" },
+    { "nombre": "Licenciatura en Letras", "tipo": "Grado" },
+    { "nombre": "Licenciatura en Historia", "tipo": "Grado" },
+    { "nombre": "Licenciatura en Filosofía", "tipo": "Grado" },
+    { "nombre": "Licenciatura en Geografía", "tipo": "Grado" },
+    { "nombre": "Licenciatura en Ciencias de la Educación", "tipo": "Grado" },
+    { "nombre": "Licenciatura en Antropología", "tipo": "Grado" }
+  ],
+  "servicios": [
+    { "titulo": "Préstamo de artículos", "detalle": "Termos, mates, yerberos, vasos, tazas, platos, cubiertos, sillas, mesas y juegos de mesa. Se deja SAETA o DNI en garantía." },
+    { "titulo": "Información al estudiante", "detalle": "EDITAR: orientación sobre trámites, becas y novedades de la facultad." },
+    { "titulo": "Espacio de encuentro", "detalle": "EDITAR: descripción del espacio y actividades del centro." }
+  ],
+  "horarios": [
+    { "carrera": "EDITAR: carrera", "turno": "Mañana / Tarde / Noche", "enlace": "https://humanidades.unsa.edu.ar" }
+  ],
+  "contactos": [
+    { "nombre": "CUEH - Atención", "dato": "EDITAR: horario de atención del centro" },
+    { "nombre": "Correo", "dato": "EDITAR: cueh@ejemplo.com", "enlace": "mailto:cueh@ejemplo.com" },
+    { "nombre": "Facultad de Humanidades UNSa", "dato": "humanidades.unsa.edu.ar", "enlace": "https://humanidades.unsa.edu.ar" }
+  ]
+}
