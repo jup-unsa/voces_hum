@@ -4,7 +4,6 @@
     { "nombre": "Licenciatura en Letras", "tipo": "Grado" },
     { "nombre": "Licenciatura en Historia", "tipo": "Grado" },
     { "nombre": "Licenciatura en Filosofía", "tipo": "Grado" },
-    { "nombre": "Licenciatura en Geografía", "tipo": "Grado" },
     { "nombre": "Licenciatura en Ciencias de la Educación", "tipo": "Grado" },
     { "nombre": "Licenciatura en Antropología", "tipo": "Grado" }
   ],
